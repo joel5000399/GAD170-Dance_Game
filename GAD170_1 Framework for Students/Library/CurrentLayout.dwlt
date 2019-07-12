@@ -392,14 +392,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Unity\GAD170_1 Framework for Students
+  m_LastProjectPath: C:\Users\joelt\OneDrive\Documents\Sourcetree\GAD170-DanceGame\GAD170_1
+    Framework for Students
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 8}
-    m_SelectedIDs: 7c110000
-    m_LastClickedID: 4476
-    m_ExpandedIDs: 00000000100f00007c110000561500007015000000ca9a3b
+    m_SelectedIDs: 7e110000
+    m_LastClickedID: 4478
+    m_ExpandedIDs: 00000000120f00007e110000581500007215000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -427,7 +428,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000100f00007c1100005615000070150000
+    m_ExpandedIDs: 00000000120f00007e1100005815000072150000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -546,9 +547,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8af7ffff
-      m_LastClickedID: -2166
-      m_ExpandedIDs: b2fbffff5e340000
+      m_SelectedIDs: 40060000
+      m_LastClickedID: 0
+      m_ExpandedIDs: b2fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

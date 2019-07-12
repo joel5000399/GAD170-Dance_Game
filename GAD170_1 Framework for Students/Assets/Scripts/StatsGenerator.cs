@@ -13,13 +13,17 @@ using UnityEngine;
 public static class StatsGenerator
 {
     public static void InitialStats(Stats stats)
+    
+    /* This function sets the base stats for the player when the game starts. It can be set to any value desired to even complex equations.
+     * totalstats mentioned in Stats.cs is being used here to add up the three major stats. */
     {
         stats.level = 1;
-        stats.rhythm = 5;
-        stats.style = 10;
-        stats.luck = 3;
         stats.xp = 0;
-        stats.xpneeded = 100;
+        stats.rhythm = 4;
+        stats.style = 7;
+        stats.luck = 3;
+        stats.xpbar = 100;
+        stats.totalstats = (float)(stats.rhythm + stats.style + stats.luck);
                 
     }
 

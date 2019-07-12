@@ -75,43 +75,43 @@
     <Compile Include="Assets\Scripts\StatsGenerator.cs" />
     <Compile Include="Assets\Scripts\XPHandler.cs" />
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files (x86)/Unity/2018.4.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -315,13 +315,13 @@
       <HintPath>C:/Program Files (x86)/Unity/2018.4.2f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Unity/GAD170_1 Framework for Students/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/joelt/OneDrive/Documents/Sourcetree/GAD170-DanceGame/GAD170_1 Framework for Students/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files (x86)/Unity/2018.4.2f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
