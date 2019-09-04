@@ -10,7 +10,7 @@ using UnityEngine;
 /// </summary>
 public class Stats : MonoBehaviour
 
-/* Everything from line 16-21 was pre-written in the base project file. The only thing I changed was int to double in line 21.
+/* Everything from line 16-21 was pre-written in the base project file. The only thing I changed was int to float in line 21.
  * I also added lines 23 and 25 to use as variables for calculation in the other scripts. */
 {
     //[HideInInspector]
@@ -18,11 +18,11 @@ public class Stats : MonoBehaviour
     //[HideInInspector]
     public int xp;
     //[HideInInspector]
-    public double style, luck, rhythm;
+    public float style, luck, rhythm;
     //[HideInInspector]
     public float totalstats; 
     //[HideInInspector]
-    public double xpbar;
+    public float xpbar;
     
     private void Awake()
     {

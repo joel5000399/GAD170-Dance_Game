@@ -26,13 +26,13 @@ public static class BattleHandler
 
         if (data.player.totalstats > data.npc.totalstats)
         {
-            outcome = Random.Range(1f, 0);                  
+            outcome = Random.Range(1f, 0);
+            data.player.luck /= 1.3f;
         }
 
         if (data.player.totalstats < data.npc.totalstats)
         {
             outcome = Random.Range(-1f, 0);
-            data.player.luck /= 1.5;
         }
         
         var results = new BattleResultEventData(data.player, data.npc, outcome);

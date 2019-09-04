@@ -36,21 +36,21 @@ public class XPHandler : MonoBehaviour
      * xpbar function mentioned in Stats.cs and used in StatsGenerator.cs to check if the experience gain has reached the set required experience 
      * to level up. The experience received resets the experience to 0 and increases the required experience based on the formula. */
     {
-        double PlayerStats = data.player.style + data.player.rhythm;
-        double Gain = (PlayerStats * 1.7);
+        float PlayerStats = data.player.style + data.player.rhythm;
+        float Gain = (PlayerStats * 1.7f);
 
         data.player.rhythm += Random.Range(0, 20 + 1);
         data.player.style += Random.Range(0, 20 + 1);
         data.player.luck += Random.Range(0, 5 + 1);
-        data.player.xp += (int)Gain;
+        data.player.xp += (int)Mathf.Log(Gain);
 
-        if (data.player.xp > data.player.xpbar)
+        if (data.player.xp >= data.player.xpbar)
         {
             data.player.level += 1;
             data.player.xp = 0;
-            data.player.xpbar *= 1.5;
-            data.player.rhythm = data.player.style / 1.2;
-            data.player.style = data.player.level * 0.3;
+            data.player.xpbar *= 1.3f;
+            data.player.rhythm += data.player.style / 1.1f;
+            data.player.style += data.player.level * 0.3f;
         }
         print (data.player.xpbar);
     }
